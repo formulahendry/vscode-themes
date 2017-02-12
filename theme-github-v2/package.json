@@ -2,7 +2,7 @@
     "name": "theme-github-v2",
     "displayName": "GitHub V2 Theme",
     "description": "GitHub V2 Theme for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "formulahendry",
     "icon": "images/logo.png",
     "engines": {
@@ -12,7 +12,7 @@
         "Themes"
     ],
     "keywords": [
-        "ubuntu"
+        "github"
     ],
     "bugs": {
         "url": "https://github.com/formulahendry/vscode-themes/issues",
