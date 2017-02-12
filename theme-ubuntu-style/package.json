@@ -4,19 +4,30 @@
     "description": "Ubuntu Style Theme for VS Code",
     "version": "0.0.1",
     "publisher": "formulahendry",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.5.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "ubuntu"
+    ],
+    "bugs": {
+        "url": "https://github.com/formulahendry/vscode-themes/issues",
+        "email": "formulahendry@gmail.com"
+    },
+    "homepage": "https://github.com/formulahendry/vscode-themes/blob/master/theme-ubuntu-style/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/formulahendry/vscode-themes.git"
+    },
     "contributes": {
-        "themes": [
-            {
-                "label": "Ubuntu Style Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/UbuntuStyle.tmTheme"
-            }
-        ]
+        "themes": [{
+            "label": "Ubuntu Style Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/UbuntuStyle.tmTheme"
+        }]
     }
 }

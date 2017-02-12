@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "theme-ubuntu-style"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Ubuntu Style Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Ubuntu Style Theme based on [UbuntuStyle.tmTheme](https://github.com/Colorsublime/Colorsublime-Themes/blob/master/themes/UbuntuStyle.tmTheme).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![js](images/js.png)
 
-**Enjoy!**
+![html](images/html.png)
